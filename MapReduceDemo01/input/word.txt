@@ -1,0 +1,7 @@
+hadoop hadoop
+linux linux linux
+hello world
+java hadoop
+bigdata
+blibli blibli
+haha haha
